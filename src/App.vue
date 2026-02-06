@@ -5,7 +5,7 @@
 </template>
 
 <script setup>
-    import Todo from './components/Todo.vue'
+    import Todo from './components/ToDo/todo.vue'
 </script>
 
 <style scoped>
